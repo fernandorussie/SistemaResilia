@@ -1,5 +1,5 @@
  
-<h1 align="center">Porjeto Individual M4 - Sistema Resilia</h1>
+<h1 align="center">Projeto Individual M4 - Sistema Resilia</h1>
 
 <h2>Contexto</h2>
 
